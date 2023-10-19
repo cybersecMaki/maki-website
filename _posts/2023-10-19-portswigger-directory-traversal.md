@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vulnerability - Directory Traversal
+title: Portswigger Academy - Directory Traversal
 tags: Portswigger
 ---
 
