@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HackTheBox Explosion Writeup 
-tags: explosion htb writeup
+tags: htb
 ---
 
 The writeup for the box "Explosion" will go here. 
