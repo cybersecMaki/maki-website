@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Misc. Security Blog Post #1 
+title: HackTheBox Explosion Writeup 
 tags: explosion htb writeup
 ---
 
